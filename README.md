@@ -6,4 +6,4 @@ This is a finite domain analogue to the Gaussian distribution. The von Mises dis
 
 You can use this distribution to generate a random number over an interval, with a bias towards the center of that interval. This is quite handy sometimes and more practical than using a Gaussian distribution that could generate any real number.
 
-A random smplaing of the distribution can be found by running `python3 main.py`
+A random sampling of the distribution can be found by running `python3 main.py`
